@@ -1,0 +1,12 @@
+* @engineering-owner
+/apps/web/ @frontend-owner
+/apps/api/ @backend-owner
+/packages/core/ @ml-owner
+/packages/benchmark/ @ml-owner
+/packages/file-processing/ @backend-owner
+/packages/shared/ @engineering-owner
+/tests/engineering/ @engineering-owner
+/tests/accuracy/ @ml-owner
+/tests/accuracy/test/ @independent-evaluator
+/.github/ @devops-owner
+/docs/ @engineering-owner

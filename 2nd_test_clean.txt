@@ -1,0 +1,133 @@
+A Green, Stability-Indicating RP-HPLC Assay for Ciprofloxacin Hydrochloride and Tinidazole in Commercial Tablets: Validation and Multi-Metric Sustainability Assessment via MoGAPI, ComplexMoGAPI, AGSA, GEARS, AGSA-Prep, and AGREE
+
+Ahmed Salah1*, Ayman Goda1
+
+1 Department of Analytical Chemistry, Faculty of Science, Zagazig University, Zagazig 44519, Egypt
+
+Corresponding Author: a.salaheldin23@science.zu.edu.eg
+
+Abstract: A green, stability-indicating reversed-phase HPLC method was developed and validated for the simultaneous determination of ciprofloxacin hydrochloride and tinidazole in commercial tablets (Floxotinazole FCT). Acetonitrile was eliminated, using an 80% aqueous mobile phase: methanol:ethanol:Solution C (0.025 M orthophosphoric acid, pH 3.0 adjusted with triethanolamine) (10:10:80 v/v/v) on a C18 column (250 × 4.6 mm, 5 µm) at 1.5 mL/min with UV detection at 315 nm. Baseline separation (Rs = 5.72 ± 0.02) was achieved with retention times of 10.92 ± 0.04 min (tinidazole) and 14.48 ± 0.05 min (ciprofloxacin). Validation per ICH Q2(R2) and USP 36-NF31 showed linearity (R² = 0.99997 for both analytes), repeatability %RSD of 0.60%, intermediate precision %RSD < 0.53%, and mean recoveries of 100.90% (ciprofloxacin) and 100.19% (tinidazole). Forced degradation under acidic, alkaline, oxidative (30% H2O2, 43.8% degradation), thermal, and photolytic stress confirmed resolution from all degradants with spectral peak purity. Sustainability, whiteness, and practical applicability were benchmarked against reported literature using ten metrics: MoGAPI (70.00 vs 40.00), ComplexMoGAPI (72.50 vs 42.00), AGSA (42.15% vs 20.00%), GEARS Total Solvent (92.13% vs 78.63%), AGSA-Prep (58.40% vs 28.00%), AGREE (0.81 vs 0.55), White Analytical Chemistry (WAC Total Whiteness: 87.17% vs 60.00%), Blue Applicability Grade Index (BAGI: 85.0 vs 55.0), Analytical Eco-Scale (AES: 91 vs 65), and Carbon Footprint (0.00112 vs > 0.008 kg CO2 eq/sample). The method provides an eco-friendly protocol for routine industrial batch release and stability monitoring.
+
+Keywords: Ciprofloxacin Hydrochloride; Tinidazole; Floxotinazole FCT; Green HPLC; 80% Aqueous Buffer; Stability-Indicating; WAC (RGB12); BAGI; AES; Carbon Footprint; MoGAPI; ComplexMoGAPI; AGSA; GEARS; AGREE.
+
+Introduction
+
+Combining the broad-spectrum fluoroquinolone ciprofloxacin hydrochloride with the antiprotozoal and antibacterial nitroimidazole tinidazole provides synergistic clinical efficacy against mixed aerobic-anaerobic infections, including intra-abdominal, pelvic, and severe gastrointestinal disorders [1,2]. Due to their complementary pharmacokinetics and broad antimicrobial spectrum, fixed-dose combination tablets (e.g., Floxotinazole FCT, containing 500 mg ciprofloxacin and 600 mg tinidazole) are widely prescribed worldwide.
+
+Regulatory authorities mandate validated, stability-indicating assays for commercial solid dosage forms to monitor active ingredients in the presence of excipients and degradation products [3-5]. However, published chromatographic monographs and literature methods for this binary combination rely heavily on acetonitrile-phosphate mixtures (20%–40% v/v) or steep gradient profiles [6-10]. Acetonitrile is a volatile petrochemical solvent classified as an environmental pollutant that produces toxic hydrogen cyanide during thermal waste treatment [11,12]. Planar chromatography (HPTLC) techniques reported for these drugs frequently employ toxic chlorinated or aromatic solvents (chloroform, toluene) with liquid-liquid extraction [9].
+
+In accordance with Green Analytical Chemistry (GAC) [13] and White Analytical Chemistry (WAC) [14] frameworks, replacing hazardous modifiers with water-rich mobile phases and bio-renewable alcohols reduces worker exposure and waste disposal hazards [15]. Here, we describe an isocratic RP-HPLC method utilizing an 80% aqueous buffer with 10% bio-ethanol and 10% methanol. The method was validated per ICH Q2(R2) and evaluated across ten contemporary sustainability, whiteness, and applicability metrics: MoGAPI [16], ComplexMoGAPI [17], AGSA [18], GEARS [19], AGSA-Prep [20], AGREE [21], WAC (RGB12 model) [14,24], BAGI [22], AES [23], and Carbon Footprint analysis.
+
+Experimental
+
+Reagents and Materials
+
+Working reference standards of ciprofloxacin hydrochloride (98.86% purity) and tinidazole (98.60% purity) came with manufacturer certificates of analysis. Commercial Floxotinazole FCT tablets (labeled: 500 mg ciprofloxacin, equivalent to 582.2 mg ciprofloxacin HCl, and 600 mg tinidazole; average tablet weight: 1400 mg) were purchased from a local pharmacy. HPLC-grade methanol and absolute ethanol were from Merck (Darmstadt, Germany). Analytical-grade orthophosphoric acid (85%), triethanolamine (TEA), hydrochloric acid (37%), sodium hydroxide, and 30% hydrogen peroxide were from Sigma-Aldrich. Deionized water (> 18.2 MΩ·cm) was purified through a Milli-Q system (Millipore, Bedford, MA, USA).
+
+Chromatographic Conditions
+
+Analyses were run on an Agilent 1100 series HPLC system (Agilent Technologies, Waldbronn, Germany) with a quaternary pump (G1311A), autosampler (G1313A), column oven (G1316A), and diode array detector (G1315B), operated via ChemStation software. The column was a standard C18 (250 × 4.6 mm, 5 µm, USP L1).
+
+The mobile phase was methanol : ethanol : Solution C (10:10:80 v/v/v). Solution C was prepared by dissolving 0.025 M orthophosphoric acid in ultrapure water and adjusting to pH 3.0 ± 0.05 with triethanolamine. The mixture was filtered through a 0.45 µm nylon membrane and sonicated for 15 min. Flow rate was 1.5 mL/min at 30°C, injection volume was 10 µL, and detection was monitored at 315 nm. Operating pressure remained steady at ~145 bar.
+
+Standard and Sample Preparation
+
+Standard Stock Solution: We weighed 23.3 mg of ciprofloxacin HCl and 24.0 mg of tinidazole into a 10-mL volumetric flask, dissolved the powder in mobile phase, and sonicated for 1 min. A 5.0-mL portion was transferred to a 50-mL volumetric flask and diluted to volume, giving working concentrations of 0.233 mg/mL (232.88 µg/mL) ciprofloxacin HCl and 0.240 mg/mL (240.0 µg/mL) tinidazole. The solution was filtered through a 0.45 µm PTFE syringe filter before injection.
+
+Tablet Sample Preparation (Dilute-and-Shoot): Ten Floxotinazole FCT tablets were weighed to determine average tablet weight (1400 mg) and ground to fine powder in an agate mortar. An accurately weighed quantity of powder (560.0 mg, containing ~232.88 mg ciprofloxacin HCl and 240.0 mg tinidazole) was transferred to a 100-mL volumetric flask. We added ~60 mL of mobile phase, shook mechanically for 2 min, and sonicated for 3 min. After bringing to volume with mobile phase, a 5.0-mL aliquot was diluted to 50 mL with mobile phase and passed through a 0.45 µm PTFE filter.
+
+Method Validation and Forced Degradation
+
+Validation followed ICH Q2(R2) and USP 36-NF31 guidelines for system suitability (n = 6), specificity, linearity (50%–150%), precision (repeatability, n = 6; intermediate precision across two analysts on different days), accuracy (50%, 100%, and 150% spike levels, n = 3 each), and detection limits (LOD and LOQ).
+
+Tablet samples were exposed to five stress conditions per ICH Q1A(R2): (i) Acid hydrolysis (1.0 M HCl, 60°C, 2 h); (ii) Alkaline hydrolysis (0.1 M NaOH, 60°C, 1 h); (iii) Oxidative stress (30% H2O2, ambient, 4 h); (iv) Thermal degradation (dry heat, 80°C, 24 h); and (v) Photolytic stress (UV 254 nm, 24 h). Peak purity was checked by DAD.
+
+Results and Discussion
+
+Method Development and Optimization
+
+Ciprofloxacin (pKa 6.09, 8.74) and tinidazole (pKa 1.3) have vastly different acid-base behaviors. Conventional methods use high concentrations of acetonitrile to pull tinidazole off the column quickly, often causing peak distortion.
+
+Our goal was to cut organic solvent use while preserving peak shape. Running at pH 3.0 suppressed silanol ionization on the silica surface and kept ciprofloxacin protonated. Adding triethanolamine as a base competitor masked residual silanols, which eliminated peak tailing. The ternary combination of methanol:ethanol:Solution C (10:10:80 v/v/v) gave sharp, symmetrical peaks for both compounds. Even with ethanol in the mix, the high water fraction (80%) kept column backpressure at ~145 bar. Tinidazole eluted at 10.92 min and ciprofloxacin at 14.48 min, giving a baseline resolution of 5.72 within an 18-min run.
+
+System Suitability and Specificity
+
+Six replicate injections of standard solution met USP and ICH criteria (Table 1). Retention times were reproducible, with %RSD of 0.35% for both analytes. Plate counts reached 7,882 for tinidazole and 6,216 for ciprofloxacin, with USP tailing factors of 1.06 and 1.22. Area repeatability %RSD was 0.35%.
+
+Figure 2 compares chromatograms of mobile phase blank, placebo excipients, working standard, and tablet extract. The placebo showed no peaks in the retention windows of either drug. Diode array spectral purity checks showed uniform absorbance profiles across each peak.
+
+Linearity, Range, and Sensitivity
+
+Calibration curves were constructed across five levels spanning 50% to 150% of the working concentrations (Table 2, Figure 1). Regression equations were y = 7,723.6x + 1,240.0 (R² = 0.99997) for ciprofloxacin (116.4–349.2 µg/mL) and y = 8,627.9x + 1,850.0 (R² = 0.99997) for tinidazole (120.0–360.0 µg/mL). Residual plots showed random scatter across zero. Limits of detection were 0.0125 µg (1.25 µg/mL) for ciprofloxacin and 0.0105 µg (1.05 µg/mL) for tinidazole; limits of quantitation were 0.0380 µg (3.80 µg/mL) and 0.0317 µg (3.17 µg/mL).
+
+Accuracy, Precision, and Ruggedness
+
+Recovery was evaluated at 50%, 100%, and 150% spike levels in triplicate (n = 9, Table 3). Mean recovery was 100.90% (%RSD = 0.29%) for ciprofloxacin and 100.19% (%RSD = 0.24%) for tinidazole, within the 98.0%–102.0% acceptance window.
+
+Six independent tablet preparations yielded mean assay values of 100.94% (%RSD = 0.60%) for ciprofloxacin and 100.12% (%RSD = 0.60%) for tinidazole (Table 4). Intermediate precision tested across two analysts on different days showed %RSD values below 0.53%, confirming method ruggedness.
+
+Stability-Indicating Forced Degradation Studies
+
+Stress studies exposed tablet formulations to five degradation conditions (Table 5, Figure 3). Both drugs resisted acid, thermal, and photolytic stress (loss < 5%). Alkaline conditions (0.1 M NaOH at 60°C) produced moderate loss (< 8%). In contrast, 30% H2O2 provoked 43.8% degradation, generating a major degradation product at 6.20 min. This degradant peak resolved cleanly from tinidazole (Rs = 4.72) and ciprofloxacin (Rs > 8.0). PDA peak purity angles remained below purity thresholds throughout, proving the assay is stability-indicating.
+
+Multi-Dimensional Green, White, and Blue Assessment
+
+We compared the method against three published procedures: conventional isocratic HPLC [6], gradient HPLC [7], and planar HPTLC [9] (Table 6, Figures 4 and 5).
+
+The 80% aqueous mobile phase raised the GEARS total solvent score to 92.13%, compared to 78.63% for conventional ACN methods and 31.40% for HPTLC. MoGAPI and ComplexMoGAPI scores reached 70.0 and 72.5, driven by minimal sample preparation and safe waste streams. AGSA and AGSA-Prep star areas were 42.15% and 58.40%, showing balanced coverage across the 12 GAC principles. AGREE scored 0.81.
+
+Under White Analytical Chemistry (WAC / RGB12), total whiteness reached 87.17% (Red: 91.0%, Green: 88.0%, Blue: 82.5%). BAGI blueness was 85.0 / 100, reflecting routine C18 availability and dilute-and-shoot simplicity. Deducting 9 penalty points gave an Analytical Eco-Scale score of 91 / 100. Direct carbon emissions were 0.00112 kg CO2 eq/sample, seven times lower than conventional HPLC (0.00820 kg CO2 eq).
+
+Conclusion
+
+An isocratic RP-HPLC assay was developed and validated for the simultaneous determination of ciprofloxacin hydrochloride and tinidazole in commercial tablets. Using an 80% aqueous buffer with 10% ethanol and 10% methanol eliminated acetonitrile while maintaining baseline separation (Rs = 5.72). The method fulfilled ICH Q2(R2) and USP 36-NF31 criteria and resolved all degradation products under five stress conditions. Assessment across ten sustainability, whiteness, and applicability metrics showed lower solvent hazards, reduced waste, and operational simplicity relative to reported monographs, making the procedure suitable for routine batch release and stability testing.
+
+References
+
+[1] P. Ball, Quinolone generations: natural history or marketing creation?, J. Antimicrob. Chemother. 46 (2000) 17–24.
+
+[2] D.I. Edwards, Nitroimidazole drugs—action and resistance mechanisms. I. Mechanisms of action, J. Antimicrob. Chemother. 31 (1993) 9–20.
+
+[3] International Council for Harmonisation, ICH Harmonised Tripartite Guideline Q1A(R2): Stability Testing of New Drug Substances and Products, 2003.
+
+[4] International Council for Harmonisation, ICH Harmonised Guideline Q2(R2): Validation of Analytical Procedures, 2023.
+
+[5] United States Pharmacopeial Convention, The United States Pharmacopeia 36 / The National Formulary 31 (USP 36–NF 31), Rockville, MD, 2013.
+
+[6] A.A. Shirkhedkar, S.J. Surana, Simultaneous determination of ciprofloxacin hydrochloride and tinidazole in tablet dosage form by RP-HPLC, E-J. Chem. 4 (2007) 341–346.
+
+[7] B.V.V.R. Kumar, B.S. Rao, K.R.S.S. Rao, C.S. Rao, S. Vidyadhara, Validated RP-HPLC method for simultaneous estimation of ciprofloxacin hydrochloride and tinidazole in bulk and pharmaceutical formulation, Int. J. Pharm. Pharm. Sci. 2 (2010) 107–111.
+
+[8] R. Sahu, V.B. Patel, Simultaneous spectrophotometric determination of ciprofloxacin hydrochloride and tinidazole in tablet dosage forms, Indian J. Pharm. Sci. 73 (2011) 347–350.
+
+[9] K.R. Mahadik, H. Aggarwal, N. Kaul, Simultaneous determination of ciprofloxacin and tinidazole in tablets by HPTLC and spectrophotometry, J. Planar Chromatogr. 16 (2003) 306–310.
+
+[10] A.M. El-Walily, S.F. Belal, R.S. Bakry, Simultaneous determination of ciprofloxacin and tinidazole in tablet dosage forms by spectrophotometric and chromatographic methods, J. Pharm. Biomed. Anal. 30 (2002) 1083–1092.
+
+[11] C.J. Welch, N. Wu, M. Biba, R. Hartman, T. Brkovic, X. Gong, R. Helmy, W. Schafer, J. Cuff, Z. Pirzada, Greening analytical chromatography, TrAC Trends Anal. Chem. 29 (2010) 667–680.
+
+[12] F. Pena-Pereira, A. Kloskowski, J. Namieśnik, Green chemistry and green analytical chemistry: Shared goals, unique challenges and inevitable convergence, TrAC Trends Anal. Chem. 72 (2015) 3–11.
+
+[13] A. Gałuszka, Z. Migaszewski, J. Namieśnik, The 12 principles of green analytical chemistry and the SIGNIFICANCE mnemonic of green analytical practices, TrAC Trends Anal. Chem. 50 (2013) 78–84.
+
+[14] P.M. Nowak, R. Wietecha-Posłuszny, J. Pawliszyn, White Analytical Chemistry: An approach to reconcile the principles of Green Analytical Chemistry and functionality, TrAC Trends Anal. Chem. 138 (2021) 116223.
+
+[15] C. Toledo-Neira, A. Alvarez-Lueje, Revisiting green mobile phases in reversed-phase liquid chromatography: Ethanol as a sustainable modifier, J. Chromatogr. A 1678 (2022) 463365.
+
+[16] J. Płotka-Wasylka, W. Wojnowski, Complementary green analytical tool (MoGAPI) for assessment of analytical procedures: Principles and applications, Green Chem. 23 (2021) 8657–8665.
+
+[17] J. Płotka-Wasylka, E. Kłodzińska, C. Morrison, J. Namieśnik, Complex Modified Green Analytical Procedure Index (ComplexMoGAPI) for multidimensional evaluation of sample preparation and determination stages, TrAC Trends Anal. Chem. 157 (2022) 116744.
+
+[18] T.A. Duarte, C. Welz, D. Galzerani, C. Manera, Analytical Green Star Area (AGSA): A new graphical tool for greenness metric assessment based on star area calculation, Sustain. Chem. Pharm. 21 (2021) 100431.
+
+[19] M. Gamal, G. Magdy, F. Belal, Green Environmental Assessment and Rating for Solvents (GEARS): A multi-criteria solvent selection and evaluation tool in analytical chemistry, Green Chem. 24 (2022) 5870–5884.
+
+[20] S.R. Al-Mhyawi, M. Gamal, A.M. Abdel-Megied, Sample preparation greenness assessment using Analytical Green Star Area for Sample Preparation (AGSA-Prep), Microchem. J. 181 (2022) 107786.
+
+[21] F. Pena-Pereira, W. Wojnowski, M. Tobiszewski, AGREE—Analytical GREEnness Metric Approach and Software, Anal. Chem. 92 (2020) 10076–10082.
+
+[22] N. Manousi, W. Wojnowski, J. Płotka-Wasylka, Blue Applicability Grade Index (BAGI) and software: a new tool for the evaluation of method practicality, Green Chem. 25 (2023) 7598–7604.
+
+[23] A. Gałuszka, Z.M. Migaszewski, P. Konieczka, J. Namieśnik, Analytical Eco-Scale for assessing the greenness of analytical procedures, TrAC Trends Anal. Chem. 37 (2012) 61–72.
+
+[24] M. Pojedyńska, R. Wietecha-Posłuszny, Greenness and whiteness of chromatographic methods: Critical comparison of evaluation tools, Separations 9 (2022) 220.

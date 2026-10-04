@@ -1,0 +1,5 @@
+Hello! This text contains accented characters like café and naïve.
+Here is a smart quote test with an em dash—wow.
+Arabic text follows: العربية mixed with English text.
+Symbols: ©, ®, ™, €, £, ¥
+Quotes: "double" and 'single' and «guillemets»

@@ -1,0 +1,8 @@
+According to Smith et al. (2023), the prevalence of AI-generated text has increased significantly in academic settings. This finding aligns with earlier research by Johnson and Williams (2021), who predicted a 300 percent increase in automated content production by 2025.
+
+Several frameworks have been proposed for detection. The GLTR tool (Gehrmann et al., 2019) uses statistical analysis of token probabilities. DetectGPT (Mitchell et al., 2023) employs perturbation-based methods. See also: https://arxiv.org/abs/2301.10416 and https://openai.com/research/ai-text-classifier.
+
+References:
+1. Smith, J., Lee, K., and Patel, R. (2023). Prevalence of AI Text in Academic Submissions. Journal of Educational Technology, 45(2), 112-128.
+2. Johnson, M. and Williams, S. (2021). Forecasting Automated Content Production. Digital Communications Quarterly, 18(4), 67-82.
+3. Gehrmann, S., Strobelt, H., and Rush, A.M. (2019). GLTR: Statistical Detection and Visualization of Generated Text. ACL 2019.

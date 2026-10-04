@@ -1,0 +1,68 @@
+{
+  "startedAt": "2026-10-04T14:08:50.845Z",
+  "lastActiveAt": "2026-10-04T14:32:16.112Z",
+  "totalVisitors": 4,
+  "uniqueVisitorsCount": 1,
+  "totalAnalyses": 3,
+  "totalWords": 9519,
+  "totalCharacters": 69501,
+  "classifications": {
+    "human_likely": 0,
+    "ai_likely": 0,
+    "ai_edited_likely": 0,
+    "inconclusive": 3
+  },
+  "languages": {
+    "en": 3,
+    "ar": 0
+  },
+  "topTells": {
+    "low_burstiness": 12,
+    "academic_ai_pattern": 3
+  },
+  "dailyActivity": {
+    "2026-10-04": {
+      "analyses": 3,
+      "words": 9519,
+      "aiLikelyCount": 0
+    }
+  },
+  "recentActivity": [
+    {
+      "id": "6yaa3co",
+      "timestamp": "2026-10-04T14:13:25.325Z",
+      "wordCount": 3173,
+      "characterCount": 23167,
+      "language": "en",
+      "label": "mixed",
+      "aiLikelihood": 41,
+      "confidence": 84,
+      "processingTimeMs": 51,
+      "tellsCount": 5
+    },
+    {
+      "id": "vyxuxvf",
+      "timestamp": "2026-10-04T14:13:11.627Z",
+      "wordCount": 3173,
+      "characterCount": 23167,
+      "language": "en",
+      "label": "mixed",
+      "aiLikelihood": 41,
+      "confidence": 84,
+      "processingTimeMs": 63,
+      "tellsCount": 5
+    },
+    {
+      "id": "wbu6c3q",
+      "timestamp": "2026-10-04T14:09:02.215Z",
+      "wordCount": 3173,
+      "characterCount": 23167,
+      "language": "en",
+      "label": "mixed",
+      "aiLikelihood": 41,
+      "confidence": 84,
+      "processingTimeMs": 252,
+      "tellsCount": 5
+    }
+  ]
+}

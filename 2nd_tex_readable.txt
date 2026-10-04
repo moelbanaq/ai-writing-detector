@@ -1,0 +1,47 @@
+An isocratic green RP-HPLC assay quantifies ciprofloxacin hydrochloride and tinidazole simultaneously in commercial Floxotinazole FCT tablets. Acetonitrile was omitted, utilizing an 80
+
+Ciprofloxacin Hydrochloride; Tinidazole; Floxotinazole FCT; Green HPLC; 80
+
+Co-prescribing ciprofloxacin hydrochloride alongside tinidazole provides potent bactericidal synergy against poly-microbial pathogens inhabiting peritoneal, pelvic, or enteric niches . Harmonious pharmacokinetics and broad antimicrobial spectra grant fixed-dose formulations (Floxotinazole FCT: 500 mg ciprofloxacin, 600 mg tinidazole) widespread international utility.
+
+Pharmacopeias require stability-indicating assays for finished solid dosage forms to track intact actives alongside excipients plus breakdown impurities . Published monographs for this dual regimen rely upon acetonitrile-phosphate eluents (20
+
+Guided by Green Analytical Chemistry and White Analytical Chemistry principles, replacing hazardous modifiers with aqueous buffers and renewable alcohols reduces occupational exposure while diminishing toxic waste . We present an isocratic RP-HPLC assay deploying an 80
+
+Certified primary calibrators of ciprofloxacin hydrochloride (98.86
+
+Liquid chromatography was conducted using an Agilent 1100 HPLC unit (C18 column, 250 4.6 mm, 5 µm, USP L1) equipped with quaternary pump, autosampler, thermostat compartment, and DAD optics.
+
+The ternary mobile phase blended HPLC methanol, absolute ethanol, and aqueous modifier Solution C (10:10:80 v/v/v). Buffer Solution C comprised 0.025 M orthophosphoric acid titrated to pH 3.0 ± 0.05 via triethanolamine, vacuum-clarified (0.45 µm nylon membrane), cavitation-degassed (15 min), and delivered isocratically at 1.5 mL/min (30^; 10-µL loops, 315 nm detection), maintaining backpressure around 145 bar.
+
+Weighed 23.3 mg ciprofloxacin HCl and 24.0 mg tinidazole dissolved in eluent (10-mL flask, sonicated 1 min); 5.0-to-50 mL dilution gave working standards (0.233 mg/mL ciprofloxacin HCl, 0.240 mg/mL tinidazole) filtered through 0.45 µm PTFE discs.
+
+Ten Floxotinazole FCT tablets (mean weight: 1400 mg) were pulverized. Powder (560.0 mg, containing 232.88 mg ciprofloxacin HCl, 240.0 mg tinidazole) was dispersed in 60 mL eluent (100-mL flask), agitated (2 min), and sonicated (3 min). Bringing to mark, secondary 5.0-to-50 mL dilution, and 0.45 µm PTFE filtration furnished test specimens.
+
+Validation observed ICH Q2(R2) and USP 36-NF31 protocols for system suitability (n = 6), specificity, linearity (50
+
+Tablet aliquots underwent five stress challenges per ICH Q1A(R2): acid (1.0 M HCl, 60^, 2 h), alkali (0.1 M NaOH, 60^, 1 h), peroxide (30
+
+Ciprofloxacin (pKa 6.09, 8.74) versus tinidazole (pKa 1.3) exhibit divergent ionization traits. Published monographs consume heavy acetonitrile fractions to elute tinidazole, risking band distortion.
+
+Method screening suppressed petrochemical waste while securing baseline resolution. Maintaining pH 3.0 masked accessible silanols to preserve cationic ciprofloxacin, whilst triethanolamine competed against silanol sites to abolish peak asymmetry. The ternary mobile phase (methanol-ethanol-Solution C, 10:10:80 v/v/v) furnished sharp symmetric peaks under 145 bar column pressure. Tinidazole eluted at 10.92 min, ciprofloxacin at 14.48 min, yielding baseline resolution (Rs = 5.72) within 18 min.
+
+Six replicate injections of standard solution met USP and ICH criteria (Table ). Retention times were reproducible, with
+
+Figure compares chromatograms of mobile phase blank, placebo excipients, working standard, and tablet extract. The placebo showed no peaks in the retention windows of either drug. Diode array spectral purity checks showed uniform absorbance profiles across each peak.
+
+Calibration curves were constructed across five levels spanning 50
+
+Recovery was evaluated at 50
+
+Six independent tablet preparations yielded mean assay values of 100.94
+
+Stress studies exposed tablet formulations to five degradation conditions (Table , Figure ). Both drugs resisted acid, thermal, and photolytic stress (loss < 5
+
+We compared the method against three published procedures: conventional isocratic HPLC , gradient HPLC , and planar HPTLC (Table , Figure , Figure ).
+
+The 80
+
+Under White Analytical Chemistry (WAC / RGB12), total whiteness reached 87.17
+
+An isocratic green RP-HPLC assay successfully quantifies ciprofloxacin hydrochloride and tinidazole in commercial Floxotinazole FCT tablets. Utilizing an 80

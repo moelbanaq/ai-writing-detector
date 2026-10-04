@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "detectors": {
+    "stylometric": { "enabled": true, "weight": 1.0 },
+    "lexical-diversity": { "enabled": true, "weight": 1.0 },
+    "structural-regularity": { "enabled": true, "weight": 1.0 },
+    "repetition": { "enabled": true, "weight": 1.0 },
+    "predictability-proxy": { "enabled": true, "weight": 1.0 },
+    "ai-pattern": { "enabled": true, "weight": 1.0 },
+    "human-irregularity": { "enabled": true, "weight": 1.0 }
+  }
+}

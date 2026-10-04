@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "textLength": {
+    "veryShort": { "maxWords": 100, "maxConfidence": 0.35 },
+    "short": { "maxWords": 250, "maxConfidence": 0.55 },
+    "moderate": { "maxWords": 500, "maxConfidence": 0.75 },
+    "good": { "maxWords": 1000, "maxConfidence": 1.0 },
+    "high": { "minWords": 1000, "maxConfidence": 1.0 }
+  },
+  "classification": {
+    "aiLikelyThreshold": 0.65,
+    "humanLikelyThreshold": 0.35,
+    "minimumConfidenceForClassification": 0.3
+  }
+}

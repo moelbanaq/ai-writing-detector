@@ -1,0 +1,47 @@
+An isocratic green RP-HPLC method quantifies D-tetramethrin and trans-cyphenothrin simultaneously in commercial insecticidal aerosols. Toxic acetonitrile was omitted, utilizing bio-ethanol:water () at across an Inertsil ODS-3V C18 column (; detection). Both pyrethroids resolved cleanly within (), eluting at (D-tetramethrin) and (trans-cyphenothrin). Validation adhered to ICH Q2(R2): linearity spanned $50
+
+D-Tetramethrin; trans-Cyphenothrin; Green HPLC; Bio-ethanol; MoGAPI; ComplexMoGAPI; AGSA; GEARS; AGSA-Prep; Aerosol QC.
+
+Pressurized domestic insect sprays routinely pair a fast-acting knockdown pyrethroid with a persistent killing agent. In KIROX MD aerosols, D-tetramethrin (type I) delivers the initial knockdown, while trans-cyphenothrin (type II) ensures mortality . Analyzing these active ingredients in finished aerosol products is practically challenging. The active pyrethroids make up only $0.1
+
+Published analytical methods for pyrethroid aerosols carry substantial environmental and operational burdens. Gas chromatography-mass spectrometry (GC-MS) protocols demand extensive electrical power ( per run) and multi-step liquid-liquid extraction using chlorinated solvents or n-hexane. High-performance thin-layer chromatography (HPTLC) methods consume hazardous solvents such as toluene and diethyl ether. Standard HPLC monographs rely predominantly on acetonitrile. Acetonitrile is a fossil-derived solvent that generates toxic cyanide gas during thermal waste treatment. Under Green Analytical Chemistry (GAC) and White Analytical Chemistry (WAC) frameworks, bio-ethanol is an attractive, renewable substitute with minimal toxicity . Ethanol's viscosity at room temperature is higher than that of acetonitrile ( vs at ), generating greater backpressure. However, this hydrodynamic challenge can be managed through column selection and sensible flow control.
+
+Early greenness assessment tools like the Analytical Eco-Scale and original GAPI provide useful broad scores, but they miss key aspects of sample preparation hazard, solvent supply chains, and balance across green principles. More recent metric systems resolve these limitations: Modified GAPI (MoGAPI) , Complex Modified GAPI (ComplexMoGAPI) , Analytical Green Star Area (AGSA) , Green Environmental Assessment and Rating for Solvents (GEARS) , and AGSA for Sample Preparation (AGSA-Prep) . This study establishes an isocratic bio-ethanol RP-HPLC method quantifying both pyrethroids in retail dispensers, benchmarking its footprint across five sustainability frameworks.
+
+Sumitomo Chemical Co., Ltd. (Tokyo, Japan) supplied certified standards of D-tetramethrin ($98.2
+
+Separation was carried out on an Inertsil ODS-3V C18 column (, GL Sciences, Tokyo, Japan). The mobile phase was water:ethanol (), filtered through a nylon membrane filter and degassed by ultrasonic bath for . Isocratic elution ran at with the column compartment held at . The injection volume was , UV detection was monitored at , and each run took . System backpressure remained steady around ().
+
+Accurately weighed D-tetramethrin and trans-cyphenothrin dissolved in acetone within a flask, sonicated (), and diluted to volume. Diluting a stock aliquot to with acetone furnished working standards ( D-tetramethrin, trans-cyphenothrin) filtered through PTFE discs. Aerosols were depressurized upright in a fume hood without agitation. Concentrated liquid () was dissolved in acetone ( flask, sonicated , brought to mark); subsequent dilution with acetone and PTFE disc filtration completed preparation.
+
+Method validation followed ICH Q2(R2) recommendations , testing system suitability (), specificity (blank and placebo solutions), linearity ($50
+
+Method greenness was evaluated across five metrics: MoGAPI (-- score over 15 parameters), ComplexMoGAPI (including 10-segment sample prep hexagon), AGSA (12-principle radar polygon area), GEARS (solvent multi-criteria hazard rating), and AGSA-Prep (8-axis sample prep radar star).
+
+Switching from acetonitrile to ethanol required balancing chromatographic retention against solvent viscosity. Initial runs using water:ethanol ratios between and produced excessively broad peaks and pushed trans-cyphenothrin retention past . Raising the ethanol proportion to $95
+
+Seven replicate standard injections met ICH acceptance criteria (Table~). Retention times showed Specificity tests (Figure~) showed no interfering signals from the solvent blank or placebo mixture in the elution windows of either active ingredient. Diode array spectral purity plots confirmed that both analyte peaks were spectrally homogeneous, with purity angles falling well within their purity thresholds.
+
+Five-point calibration curves showed good linearity from $50
+
+Method accuracy was confirmed by spiking inactive matrix at $50 Precision assessments (Table~) showed repeatability RSDs of $0.39
+
+Forced degradation experiments confirmed that intact active ingredients separate cleanly from decomposition products under all stress conditions (Table~, Figure~). Acid treatment () degraded $13.80
+
+We compared the green RP-HPLC method against the conventional acetonitrile method and published literature (GC-MS , HPTLC , and conventional HPLC ) using five advanced metrics (Tables~--, Figures~--):
+
+Bio-ethanol scored $78.75 The 12-principle star area almost doubled, jumping from $18.65 Direct canister depressurization followed by solvent dilution achieved an AGSA-Prep area of $53.22 Overall scores rose from to on MoGAPI and from to on ComplexMoGAPI, outperforming published pyrethroid assays (--) (Figure~A, B). The AGREE score advanced from to (Figure~D), the Analytical Eco-Scale score rose from 72 to 88 (a 57
+
+To evaluate the assay beyond ecological impact alone, we applied White Analytical Chemistry (WAC / RGB12 model) , the Blue Applicability Grade Index (BAGI) , the Analytical Eco-Scale (AES) , and direct carbon footprint estimation (Figure~). Total WAC whiteness reached $83.33
+
+We tested the method on commercial KIROX MD canisters. Assays of six separate containers yielded mean recoveries of $100.2 0.4
+
+We developed and validated an isocratic RP-HPLC method for analyzing D-tetramethrin and trans-cyphenothrin in commercial pressurized aerosols. Switching from acetonitrile to bio-ethanol eliminated toxic cyanide waste streams while maintaining complete chromatographic separation (). The method complied with all ICH Q2(R2) requirements and cleanly separated breakdown products across five forced degradation conditions. Comprehensive evaluation across ten greenness, whiteness, and blueness metrics confirmed clear ecological and practical benefits over existing GC-MS, HPTLC, and conventional HPLC protocols, offering an efficient, low-waste procedure for routine industrial release.
+
+Conceptualization, Methodology, Formal analysis, Writing -- original draft. Supervision, Validation, Writing -- review & editing.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+The data supporting the findings of this study are available within the article or from the corresponding author upon reasonable request.

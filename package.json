@@ -1,0 +1,56 @@
+{
+  "name": "ai-writing-forensic-analyzer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "astro dev --port 3000 --host",
+    "build": "astro build",
+    "preview": "astro preview",
+    "dev:classic": "concurrently \"npm run dev -w @ai-detector/api\" \"npm run dev -w @ai-detector/web\"",
+    "build:classic": "npm run build -w @ai-detector/shared && npm run build -w @ai-detector/core && npm run build -w @ai-detector/file-processing && npm run build -w @ai-detector/benchmark && npm run build -w @ai-detector/api && npm run build -w @ai-detector/web",
+    "test": "vitest run",
+    "test:unit": "vitest run --project unit",
+    "test:integration": "vitest run --project integration",
+    "test:engineering": "tsx scripts/test/run-engineering.ts",
+    "test:accuracy": "tsx scripts/benchmark/run-validation.ts",
+    "test:accuracy:validation": "tsx scripts/benchmark/run-validation.ts --calibrate",
+    "test:accuracy:final": "tsx scripts/benchmark/run-final.ts",
+    "benchmark": "tsx scripts/benchmark/run-benchmark.ts",
+    "lint": "eslint .",
+    "typecheck": "tsc -b",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check:runtime": "tsx scripts/development/check-runtime-version.ts",
+    "dataset:validate": "tsx scripts/dataset/validate-dataset.ts",
+    "ci": "npm run format:check && npm run lint && npm run typecheck && npm run test && npm run test:engineering && npm run build"
+  },
+  "devDependencies": {
+    "@astrojs/cloudflare": "^14.3.3",
+    "@astrojs/react": "^7.0.0",
+    "@eslint/js": "^10.0.1",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.4",
+    "astro": "^7.3.5",
+    "concurrently": "^10.0.5",
+    "eslint": "^10.12.0",
+    "prettier": "^3.9.9",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.0",
+    "vitest": "^5.0.3",
+    "zod": "^4.6.5"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}

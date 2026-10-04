@@ -1,0 +1,85 @@
+A Green, Stability-Indicating RP-HPLC Assay for D-Tetramethrin and trans-Cyphenothrin in Aerosols: Validation and Sustainability Benchmarking via MoGAPI, ComplexMoGAPI, AGSA, GEARS, and AGSA-Prep
+
+Ahmed Salah* and Ayman Goda
+
+Department of Analytical Chemistry, Faculty of Science, Zagazig University, Zagazig 44519, Egypt
+*Corresponding author: a.salaheldin23@science.zu.edu.eg
+
+ABSTRACT
+
+An isocratic green RP-HPLC method quantifies D-tetramethrin and trans-cyphenothrin simultaneously in commercial pressurized insecticidal aerosols. To eliminate hazardous acetonitrile, the mobile phase combines bio-ethanol and water (5:95, v/v). On an Inertsil ODS-3V C18 column (250 × 4.6 mm, 5 µm) operated at 1.5 mL/min (220 nm UV detection), both pyrethroids resolve cleanly within 22 min (Rs = 13.52 ± 0.17). D-Tetramethrin elutes at 8.63 min and trans-cyphenothrin at 18.60 min. Validation followed ICH Q2(R2) criteria: linearity spanned 50% to 150% of target levels (R² = 0.9911 for D-tetramethrin, 0.9992 for trans-cyphenothrin), with repeatability RSD under 0.40% and intermediate precision RSD under 0.60%. Mean recoveries were 99.02% and 100.46%. Forced degradation studies (acid, base, peroxide, heat, and UV) generated distinct breakdown products that remained well-separated from parent peaks (Rs ≥ 1.40). Sustainability benchmarking via five modern assessment frameworks yielded: MoGAPI (60.00 vs 28.5–38.0 in literature), ComplexMoGAPI (63.00 vs 30.2–40.5), AGSA star area (36.31% vs 15.2%–22.4%), GEARS solvent rating (79.81% vs 32.5%–43.0%), and AGSA-Prep (53.22% vs 24.5%–38.0%). This green assay offers an efficient, low-waste protocol for industrial release testing.
+
+Keywords: D-Tetramethrin; trans-Cyphenothrin; Green HPLC; Bio-ethanol; MoGAPI; ComplexMoGAPI; AGSA; GEARS; AGSA-Prep; Aerosol QC.
+
+Introduction
+
+Pressurized household insecticides frequently pair fast-acting knockdown pyrethroids with persistent lethal actives. In commercial KIROX MD aerosols, D-tetramethrin (type I) provides rapid knockdown while trans-cyphenothrin (type II) secures mortality [1–5]. Assaying both actives within commercial dispensers poses analytical challenges. Formulations contain merely 0.1–3.0% w/v active ingredients dispersed across heavy petroleum distillates and pressurized liquefied propellants [6]. Both compounds are lipophilic (log P > 4.5) and share overlapping UV absorption bands between 220 and 230 nm. Ester linkages remain susceptible to hydrolytic cleavage during prolonged storage [7]. Manufacturing release requires stability-indicating procedures that resolve both pyrethroids from matrix excipients and degradation products per ICH Q1A(R2)/Q2(R2) directives [8,9].
+
+Reported analytical methodologies for pyrethroid aerosols incur notable environmental and operational burdens. Gas chromatography-mass spectrometry (GC-MS) [2] requires high electrical energy (> 3 kWh/run) and multi-step extraction utilizing chlorinated solvents or n-hexane. Thin-layer chromatography (HPTLC) [29] consumes hazardous toluene and diethyl ether. Conventional HPLC monographs [27] rely upon toxic acetonitrile. Acetonitrile represents a petroleum derivative generating toxic cyanide vapors upon incineration. Within Green Analytical Chemistry (GAC) [10,11] and White Analytical Chemistry (WAC) [12] principles, bio-ethanol serves as an attractive renewable alternative [13–16]. Higher solvent viscosity (1.08 vs 0.34 mPa·s at 25 °C) increases hydrodynamic backpressure. Nevertheless, appropriate column dimensions and flow settings readily accommodate this pressure profile.
+
+While the Analytical Eco-Scale [23] and original GAPI [24] offer foundational scores, they overlook sample preparation hazards, solvent supply life cycles, and principle balancing. Advanced metric systems address these gaps: Modified GAPI (MoGAPI) [17], Complex Modified GAPI (ComplexMoGAPI) [18], Analytical Green Star Area (AGSA) [19], Green Environmental Assessment and Rating for Solvents (GEARS) [20], and AGSA for Sample Preparation (AGSA-Prep) [21]. We developed and validated an isocratic ethanol-based RP-HPLC method for D-tetramethrin and trans-cyphenothrin in pressurized insect sprays, supported by comprehensive multi-metric benchmarking against established literature.
+
+Experimental
+
+Reagents and Apparatus
+
+Reference standards of D-tetramethrin (98.2% certified purity) and trans-cyphenothrin (98.5% certified purity) were supplied by Sumitomo Chemical Co., Ltd. (Tokyo, Japan). Commercial KIROX MD insecticidal aerosol canisters (labeled: 2.7% w/v D-tetramethrin, 0.9% w/v trans-cyphenothrin; Batch NOM4) were manufactured by Misr Detergents (MD Industries) and obtained from local retail stock. Absolute ethanol (HPLC grade, ≥ 99.8%) and acetone (analytical grade) were purchased from Merck (Darmstadt, Germany). Hydrochloric acid (37%), sodium hydroxide pellets, and hydrogen peroxide (30%) were sourced from Sigma-Aldrich. Ultrapure water (> 18.2 MΩ·cm) came from a Milli-Q water system (Millipore, Bedford, MA, USA). Chromatographic measurements were carried out on an Agilent 1100 series HPLC system (Agilent Technologies, Waldbronn, Germany) configured with a G1311A quaternary pump, G1313A autosampler, G1316A column compartment, and G1315B diode array detector (DAD), driven by ChemStation software.
+
+Chromatographic Conditions
+
+Chromatographic separation utilized an Inertsil ODS-3V C18 column (250 × 4.6 mm, 5 µm, GL Sciences, Tokyo, Japan). The mobile phase was water:ethanol (5:95, v/v), filtered through a 0.45 µm nylon membrane filter and degassed by ultrasonic bath for 15 min. Isocratic elution ran at 1.5 mL/min with the column compartment held at 25 ± 2 °C. The injection volume was 20 µL, Absorbance detection was tracked at 220 nm, and each run took 22.0 min. Operating hydraulic pressure stabilized near 172 bar (~2500 psi).
+
+Preparation of Solutions and Aerosol Sampling
+
+Standard Stock Solution: We weighed 225.0 mg D-tetramethrin and 75.0 mg trans-cyphenothrin into a 100-mL volumetric flask, dissolved the material in acetone, sonicated for 10 min, and diluted to mark. Working Standard Solution: A 5.0-mL portion of stock solution was transferred into a 50-mL volumetric flask and brought to volume with acetone, giving 225.0 µg/mL D-tetramethrin and 75.0 µg/mL trans-cyphenothrin. The mixture was passed through a 0.45 µm PTFE syringe filter before injection. Aerosol Canister Sampling: Aerosol cans were stood upright under an active fume hood and gently depressurized without shaking until propellant gas stopped escaping. A 5.0-mL sample of the remaining liquid concentrate was transferred into a 25-mL volumetric flask, dissolved in acetone, sonicated for 10 min, and diluted to volume. Next, 5.0-mL of this solution was diluted to 10-mL with acetone and filtered through a 0.45 µm PTFE disc.
+
+Validation and Forced Degradation Protocols
+
+Analytical validation adhered to ICH Q2(R2) directives [9], testing system suitability (n = 7), specificity (blank and placebo solutions), linearity (50%–150% range, 5 concentrations in triplicate), accuracy (50%, 100%, and 150% spike levels, n = 9), and precision (repeatability n = 6; intermediate precision across two analysts, two days, and two column lots, evaluated by one-way ANOVA). Forced degradation trials followed ICH Q1A(R2) guidelines [8]: acid stress (1.0 M HCl, 4 h), alkali stress (0.1 M NaOH, 1 h), oxidative stress (3% H2O2, 6 h), dry heat (60 °C, 6 h), and ultraviolet exposure (254 nm, 24 h). Peak purity was checked across all stressed runs with the diode array detector.
+
+Sustainability Assessment Framework
+
+Method sustainability was evaluated through five modern analytical metrics: (i) MoGAPI [17], which assigns a 0 to 100 overall score across 15 green analytical parameters; (ii) ComplexMoGAPI [18], which appends a 10-segment hexagon dedicated to sample preparation; (iii) AGSA [19], which calculates the polygon area of a 12-ray radar star representing the 12 GAC principles (Area = 0.5 · sin(2π/12) · Σ r_i · r_{i+1}); (iv) GEARS [20], which evaluates solvent safety across health, physical hazard, environmental persistence, and lifecycle; and (v) AGSA-Prep [21], which measures the greenness profile of sample preparation on an 8-axis star.
+
+Results and Discussion
+
+Method Development and Optimization
+
+Switching from acetonitrile to ethanol required balancing chromatographic retention against solvent viscosity. Initial runs using water:ethanol ratios between 80:20 and 90:10 (v/v) produced excessively broad peaks and pushed trans-cyphenothrin retention past 30 min. Raising the ethanol proportion to 95% (5:95, v/v) improved peak symmetry and pulled both compounds into a practical 22-min window. D-Tetramethrin eluted at 8.63 min and trans-cyphenothrin at 18.60 min, yielding a baseline resolution of 13.52. System backpressure held near 172 bar, well below the equipment's 400-bar rating. Measuring absorbance at 220 nm gave strong analyte responses while avoiding ethanol's lower UV cutoff threshold (~205–210 nm).
+
+System Suitability and Specificity
+
+Seven replicate standard injections satisfied all ICH acceptance criteria (Table 1). Retention times showed %RSD values of 0.75% for D-tetramethrin and 0.65% for trans-cyphenothrin. Peak area repeatability gave %RSDs of 1.75% and 2.26%. Plate counts averaged above 5,600 and 5,900, while tailing factors remained below 1.30. Specificity tests (Figure 2) showed no interfering signals from the solvent blank or placebo mixture in the elution windows of either active ingredient. Diode array spectral purity plots confirmed that both analyte peaks were spectrally homogeneous, with purity angles falling well within their purity thresholds.
+
+Linearity, Range, and Sensitivity
+
+Five-point calibration curves showed good linearity from 50% to 150% of target concentrations (Table 2, Figure 1). Least-squares regression produced y = 52,258.49 x - 576,219.33 (R² = 0.9911) for D-tetramethrin (112.5–337.5 µg/mL) and y = 44,443.04 x + 118,031.51 (R² = 0.9992) for trans-cyphenothrin (37.5–112.5 µg/mL). Residual analysis confirmed homoscedastic variance across the tested concentration span. Detection limits (LOD) were 42.84 µg/mL for D-tetramethrin and 4.23 µg/mL for trans-cyphenothrin, with quantitation limits (LOQ) of 129.82 µg/mL and 12.82 µg/mL.
+
+Accuracy, Precision, and Ruggedness
+
+Accuracy verification entailed spiking inactive matrix at 50%, 100%, and 150% of nominal levels (Table 3). Across nine determinations, mean recoveries were 99.02% (%RSD = 0.94%) for D-tetramethrin and 100.46% (%RSD = 0.44%) for trans-cyphenothrin, well within standard regulatory bounds (98.0%–102.0%). Precision evaluation (Table 4) yielded repeatability RSDs of 0.39% (D-tetramethrin) and 0.24% (trans-cyphenothrin). Intermediate precision across different operators, days, and column serial numbers yielded RSDs below 0.60%. One-way ANOVA tests showed no significant difference between test days (F = 0.698, p = 0.423 for D-tetramethrin; F = 0.812, p = 0.388 for trans-cyphenothrin), demonstrating method ruggedness.
+
+Forced Degradation and Stability-Indicating Profiling
+
+Forced degradation experiments confirmed that intact active ingredients separate cleanly from decomposition products under all stress conditions (Table 5, Figure 3). Acid treatment (1.0 M HCl) degraded 13.80% of D-tetramethrin (Rs = 7.85) and 27.57% of trans-cyphenothrin (Rs = 1.47). Alkaline exposure (0.1 M NaOH) caused 6.14% and 8.31% loss (Rs = 3.50 and 1.40). Peroxide oxidation (3% H2O2) broke down 28.49% of trans-cyphenothrin (Rs = 1.50) and 8.70% of D-tetramethrin (Rs = 3.52). Thermal stress at 60 °C caused 22.39% loss of trans-cyphenothrin (Rs = 1.28) and 3.50% of D-tetramethrin (Rs = 2.39). Both actives proved photostable under UV light, with less than 3% degradation. In every instance, diode array peak purity verified that no breakdown products co-eluted with parent compounds, confirming the stability-indicating capability of the assay.
+
+Multi-Metric Greenness Assessment and Literature Benchmarking
+
+We compared the green RP-HPLC method against the conventional acetonitrile method and published literature (GC-MS [2], HPTLC [29], and conventional HPLC [27]) using five advanced metrics (Tables 6–8, Figures 4–8):
+GEARS: Bio-ethanol scored 78.75% compared to 28.75% for acetonitrile. The total mobile phase scored 79.81%, compared to 43.00% for the legacy HPLC eluent and 32.5%–38.0% for GC-MS and HPTLC protocols reliant on dichloromethane, hexane, or toluene (Table 8, Figure 8C).
+AGSA: The 12-principle star area almost doubled, jumping from 18.65% (0.559/3.000) to 36.31% (1.089/3.000) through the switch to a renewable modifier, reduced toxicity, and safer handling (Figure 5C, Figure 7C). Literature GC-MS (15.2%) and HPTLC (22.4%) scored far lower.
+AGSA-Prep: Direct canister depressurization followed by solvent dilution achieved an AGSA-Prep area of 53.22% (1.505/2.828), vs 31.12% for conventional testing and 24.5%–38.0% for published extraction procedures (Figure 8A, B).
+MoGAPI and ComplexMoGAPI: Overall scores rose from 33.33 to 60.00 on MoGAPI and from 35.83 to 63.00 on ComplexMoGAPI, outperforming published pyrethroid assays (28.5–40.5) (Figure 7A, B).
+General Metrics: The AGREE score advanced from 0.47 to 0.77 (Figure 7D), the Analytical Eco-Scale score rose from 72 to 88 (a 57% reduction in penalty points), and WAC whiteness climbed from 71.2% to 86.0% (Table 6, Figure 4).
+
+Multi-Dimensional Sustainability, Whiteness, and Practicality Assessment
+
+To evaluate the assay beyond ecological impact alone, we applied White Analytical Chemistry (WAC / RGB12 model), the Blue Applicability Grade Index (BAGI), the Analytical Eco-Scale (AES), and direct carbon footprint estimation (Figure 5). Total WAC whiteness reached 83.33%, combining strong analytical validation (Red: 88.5%), environmental responsibility (Green: 82.5%), and economic feasibility (Blue: 79.0%). BAGI scored 80.0 / 100, credited to simple dilute-and-shoot sample preparation, room temperature operation, and an ordinary C18 column. The Analytical Eco-Scale earned an 88/100 rating with only 12 penalty points deducted. Direct carbon footprint calculations indicated 0.00145 kg CO2 eq/sample—a twelve-fold reduction compared to literature GC-MS methods (0.01850 kg CO2 eq/sample).
+
+Application to Commercial Aerosol Formulation
+
+Commercial KIROX MD aerosol units were assayed to test real-world applicability. Six independent containers demonstrated average recovery figures of 100.2 ± 0.4% for D-tetramethrin and 100.5 ± 0.3% for trans-cyphenothrin, meeting commercial release specifications (90.0%–110.0%). No interference from container propellant or aerosol propellants was observed, confirming the assay's fitness for routine batch testing.
+
+Conclusion
+
+We developed and validated an isocratic RP-HPLC method for analyzing D-tetramethrin and trans-cyphenothrin in commercial pressurized aerosols. Switching from acetonitrile to bio-ethanol eliminated toxic cyanide waste streams while maintaining complete chromatographic separation (Rs = 13.52). The method complied with all ICH Q2(R2) requirements and cleanly separated breakdown products across five forced degradation conditions. Comparative evaluation across ten greenness, whiteness, and blueness metrics confirmed clear ecological and practical benefits over existing GC-MS, HPTLC, and conventional HPLC protocols, offering an efficient, low-waste procedure for routine industrial release.

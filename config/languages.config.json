@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "supportedLanguages": ["en", "ar", "fr", "es"],
+  "experimentalLanguages": ["de", "it", "pt", "tr"],
+  "defaultLanguage": "en",
+  "languageSpecific": {
+    "en": { "reliabilityFactor": 1.0 },
+    "ar": { "reliabilityFactor": 0.7 },
+    "fr": { "reliabilityFactor": 0.8 },
+    "es": { "reliabilityFactor": 0.8 }
+  }
+}

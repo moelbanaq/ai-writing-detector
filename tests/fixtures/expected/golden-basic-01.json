@@ -1,0 +1,8 @@
+{
+  "input": "Hello world.\nHello world.\nHello world.",
+  "expected": {
+    "wordCount": 6,
+    "sentenceCount": 3,
+    "paragraphCount": 1
+  }
+}

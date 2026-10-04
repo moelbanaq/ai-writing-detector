@@ -1,0 +1,21 @@
+{
+  "name": "@ai-detector/file-processing",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@ai-detector/shared": "*",
+    "mammoth": "^1.13.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/pdf-parse": "^1.1.5"
+  }
+}

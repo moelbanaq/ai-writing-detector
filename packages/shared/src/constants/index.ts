@@ -1,0 +1,11 @@
+export const MIN_ANALYZABLE_WORDS = 1;
+export const SHORT_TEXT_WORD_LIMIT = 100;
+export const MODERATE_TEXT_WORD_LIMIT = 250;
+export const GOOD_TEXT_WORD_LIMIT = 500;
+export const MAX_INPUT_SIZE = 100000;
+export const MAX_INPUT_WORDS = 50000;
+export const SUPPORTED_LANGUAGES = ['en', 'es', 'fr', 'de'];
+export const EXPERIMENTAL_LANGUAGES = ['it', 'pt'];
+export const APP_VERSION = '0.1.0';
+export const CORE_VERSION = '0.1.0';
+export const CONFIG_VERSION = '1.0.0';

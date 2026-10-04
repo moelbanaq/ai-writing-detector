@@ -1,0 +1,7 @@
+{
+  "fixture": "human-casual.txt",
+  "expected": {
+    "sentenceCount": 3,
+    "paragraphCount": 1
+  }
+}
