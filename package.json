@@ -12,9 +12,9 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "astro dev --port 3000 --host",
-    "build": "astro build",
-    "preview": "astro preview",
+    "dev": "npm run dev -w @ai-detector/web",
+    "build": "npm run build -w @ai-detector/web",
+    "preview": "npm run preview -w @ai-detector/web",
     "dev:classic": "concurrently \"npm run dev -w @ai-detector/api\" \"npm run dev -w @ai-detector/web\"",
     "build:classic": "npm run build -w @ai-detector/shared && npm run build -w @ai-detector/core && npm run build -w @ai-detector/file-processing && npm run build -w @ai-detector/benchmark && npm run build -w @ai-detector/api && npm run build -w @ai-detector/web",
     "test": "vitest run",

@@ -1,7 +1,8 @@
-import crypto from 'crypto';
-
 export function generateReportId(): string {
-  return crypto.randomUUID();
+  if (typeof globalThis !== 'undefined' && globalThis.crypto?.randomUUID) {
+    return globalThis.crypto.randomUUID();
+  }
+  return 'rep_' + Math.random().toString(36).substring(2, 11) + '_' + Date.now().toString(36);
 }
 
 export function clamp(val: number, min: number, max: number): number {
@@ -13,5 +14,10 @@ export function isFiniteNumber(val: unknown): val is number {
 }
 
 export function simpleHash(str: string): string {
-  return crypto.createHash('sha256').update(str).digest('hex').substring(0, 16);
+  let hash = 0x811c9dc5;
+  for (let i = 0; i < str.length; i++) {
+    hash ^= str.charCodeAt(i);
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return (hash >>> 0).toString(16).padStart(8, '0');
 }
