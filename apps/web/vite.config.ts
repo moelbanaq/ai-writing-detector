@@ -3,6 +3,12 @@ import react from '@vitejs/plugin-react';
 import path from 'node:path';
 
 export default defineConfig({
+  define: {
+    'process.env': {},
+    'process.version': JSON.stringify('browser'),
+    'process.platform': JSON.stringify('browser'),
+    'process.arch': JSON.stringify('browser'),
+  },
   plugins: [react()],
   resolve: {
     alias: {

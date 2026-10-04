@@ -220,9 +220,9 @@ export function analyzeText(input: AnalyzeTextInput): AnalysisReport {
       ),
       configurationVersion: '4.0.0',
       runtime: {
-        node: process.version,
-        platform: process.platform,
-        arch: process.arch,
+        node: typeof process !== 'undefined' ? process.version : 'browser',
+        platform: typeof process !== 'undefined' ? process.platform : 'browser',
+        arch: typeof process !== 'undefined' ? process.arch : 'browser',
       },
       reasoningVersion: undefined,
     },
@@ -245,7 +245,8 @@ export async function analyzeTextAsync(input: AnalyzeTextInput): Promise<Analysi
   });
 
   if (options.includeAiReasoning || routing.shouldInvokeLLM) {
-    const providerId = options.reasoningProvider || process.env.REASONING_PROVIDER || 'mock';
+    const envProvider = typeof process !== 'undefined' ? process.env?.REASONING_PROVIDER : undefined;
+    const providerId = options.reasoningProvider || envProvider || 'mock';
     const request: ReasoningRequest = {
       evidence: {
         reportId: report.reportId,
